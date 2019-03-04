@@ -1,0 +1,5 @@
+[ { Title: 'Inception', rating: '8.8' },
+  { Title: 'Interstellar', rating: '8.6' },
+  { Title: 'The Dark Knight', rating: '9.0' },
+  { Title: 'Batman Begins', rating: '8.3' },
+  { Title: 'Avatar', rating: '7.9' } ]
