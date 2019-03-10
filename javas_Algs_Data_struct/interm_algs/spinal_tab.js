@@ -5,7 +5,7 @@ function spinalCase(str) {
   	}else if(elem !== elem.toLowerCase()){
   		console.log(elem)
   		let bar = elem.toLowerCase()
-  		if(acc[idx -1] == "-"){
+  		if(acc[idx - 1] == "-"){
   			acc += bar
   		}else{
   			acc += "-" + bar
