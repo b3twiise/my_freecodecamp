@@ -34,3 +34,4 @@ let l = rot13("SERR PBQR PNZC JLN LJADS");
 l =rot13("SERR YBIR?") 
 
 console.log(l)
+input="bla"; while IFS= read -r line; do git add $line; done
